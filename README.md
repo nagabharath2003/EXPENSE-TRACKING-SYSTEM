@@ -14,8 +14,8 @@ This is a tool to create simple web apps using just Python.
 - It’s great for data apps because you can show charts, tables, and interactive dashboards in minutes.
 
 - Imagine Excel on steroids—you change a few lines of code, and boom! A new dashboard appears.
-- 
-         ![open tab](https://github.com/user-attachments/assets/4856d843-5fbe-452a-8945-f88ba3eead3f)
+
+   ![open tab](https://github.com/user-attachments/assets/4856d843-5fbe-452a-8945-f88ba3eead3f)
 
   
 ### Logging in Python
