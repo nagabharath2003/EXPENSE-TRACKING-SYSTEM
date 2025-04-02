@@ -1,3 +1,5 @@
+ ![Streamlit App](streamlit_app.png)
+
 # EXPENSE-TRACKING-SYSTEM
 
 ## Overview
