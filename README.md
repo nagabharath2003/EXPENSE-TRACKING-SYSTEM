@@ -14,6 +14,8 @@ This is a tool to create simple web apps using just Python.
 - It’s great for data apps because you can show charts, tables, and interactive dashboards in minutes.
 
 - Imagine Excel on steroids—you change a few lines of code, and boom! A new dashboard appears.
+- 
+<img src="capture_20250402115842631" alt="Streamlit logo" style="margin-top:50px"></img>
 
 ### Logging in Python
 
