@@ -14,11 +14,10 @@ This is a tool to create simple web apps using just Python.
 - It’s great for data apps because you can show charts, tables, and interactive dashboards in minutes.
 
 - Imagine Excel on steroids—you change a few lines of code, and boom! A new dashboard appears.
+- 
+         ![open tab](https://github.com/user-attachments/assets/4856d843-5fbe-452a-8945-f88ba3eead3f)
 
-
-![capture_20250402115910468](https://github.com/user-attachments/assets/6e9b0d8a-0284-438a-90b5-7c5fb3e92650)
-
-
+  
 ### Logging in Python
 
 Logging is like keeping a diary of what your program does. Instead of printing messages to the screen (which disappear), logging stores them in a file. This is super useful for debugging when something goes wrong.
