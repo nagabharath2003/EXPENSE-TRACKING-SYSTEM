@@ -5,7 +5,7 @@
 Expense Manager is a simple and easy-to-use application that helps you track your daily expenses. It allows you to add, view, delete, and analyze your expenses efficiently. The application is built using MySQL for the database and Streamlit for the frontend, ensuring a smooth user experience.
 
 
-### Streamlit  <img src="https://1drv.ms/i/c/7f83dfb573ca445b/EUyE2q12FGJNlEdzzMGCWGIBx12CECCb3X93D-GqBRcgfg?e=dmxdOi" alt="Streamlit logo" style="margin-top:50px"></img>
+### Streamlit  
 
 This is a tool to create simple web apps using just Python.
 
@@ -15,7 +15,9 @@ This is a tool to create simple web apps using just Python.
 
 - Imagine Excel on steroids—you change a few lines of code, and boom! A new dashboard appears.
 
-  https://1drv.ms/i/c/7f83dfb573ca445b/EUyE2q12FGJNlEdzzMGCWGIBx12CECCb3X93D-GqBRcgfg?e=dmxdOi
+
+![capture_20250402115910468](https://github.com/user-attachments/assets/6e9b0d8a-0284-438a-90b5-7c5fb3e92650)
+
 
 ### Logging in Python
 
