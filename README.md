@@ -15,8 +15,7 @@ This is a tool to create simple web apps using just Python.
 
 - Imagine Excel on steroids—you change a few lines of code, and boom! A new dashboard appears.
 
-   <img src=![open tab](https://github.com/user-attachments/assets/4856d843-5fbe-452a-8945-f88ba3eead3f) width="400">
-
+  <img src="https://github.com/user-attachments/assets/4856d843-5fbe-452a-8945-f88ba3eead3f" alt="open tab" width="500" height="500">
   
 ### Logging in Python
 
