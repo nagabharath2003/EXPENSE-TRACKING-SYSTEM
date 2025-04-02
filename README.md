@@ -16,6 +16,7 @@ This is a tool to create simple web apps using just Python.
 - Imagine Excel on steroids—you change a few lines of code, and boom! A new dashboard appears.
 
 https://1drv.ms/i/c/7f83dfb573ca445b/EQkOnzy0539CjvFs1_TgDRUBgEVNsk_WY5bUu2LucjAewQ?e=8jOPtW
+https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F7F83DFB573CA445B%21s3c9f0e09e7b4427f8ef16cd7f4e00d15%3Fithint%3Dphoto%26e%3D8jOPtW%26migratedtospo%3Dtrue&sw=bypassConfig&cid=7F83DFB573CA445B&id=7F83DFB573CA445B%21s3c9f0e09e7b4427f8ef16cd7f4e00d15&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83ZjgzZGZiNTczY2E0NDViL0VRa09uenkwNTM5Q2p2RnMxX1RnRFJVQmdFVk5za19XWTViVXUyTHVjakFld1E%5FZT04ak9QdFc&v=photos
 
 ### Logging in Python
 
