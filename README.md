@@ -15,7 +15,7 @@ This is a tool to create simple web apps using just Python.
 
 - Imagine Excel on steroids—you change a few lines of code, and boom! A new dashboard appears.
 
-<img src="C:\Users\nagab\OneDrive\Pictures\capture_20250402115842631.bmp" alt="Streamlit logo" style="margin-top:50px"></img>
+<img src="file:///C:/Users/nagab/OneDrive/Pictures/capture_20250402115842631.bmp" alt="Streamlit logo" style="margin-top:50px"></img>
 
 ### Logging in Python
 
